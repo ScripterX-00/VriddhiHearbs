@@ -2,7 +2,7 @@
 
 Virtual Herbal Garden & AYUSH Medicinal Plants Platform
 
- (![alt text](images2/baneer1.png))
+ ![alt text](images2/baneer1.png)
 
 
 
@@ -199,5 +199,4 @@ VriddhiHearbs/
 - Uploads are stored in the `uploads/` directory
 - All plant images and 3D models are placeholders (SVG icons) for nowgit
 
-👨‍💻 Author
-**Developed by :** Team Eternals  
+ # 👨‍💻  Developed by : Team Eternals  
