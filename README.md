@@ -1,7 +1,8 @@
-# VriddhiHerbs
+# 🪴VriddhiHerbs
 
 Virtual Herbal Garden & AYUSH Medicinal Plants Platform
-![Demo] (VriddhiHearbs/images2/baneer1.png)
+
+ (![alt text](images2/baneer1.png))
 
 
 
@@ -138,7 +139,7 @@ Based on the provided architecture diagram:
 6. **Amla** (Phyllanthus emblica) - Vitamin C Source
 
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 VriddhiHearbs/
@@ -199,4 +200,4 @@ VriddhiHearbs/
 - All plant images and 3D models are placeholders (SVG icons) for nowgit
 
 👨‍💻 Author
-**Developed by :** Team Eternals 
+**Developed by :** Team Eternals  
