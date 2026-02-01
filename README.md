@@ -199,4 +199,5 @@ VriddhiHearbs/
 - Uploads are stored in the `uploads/` directory
 - All plant images and 3D models are placeholders (SVG icons) for nowgit
 
- ## 👨‍💻  Developed by : Team Eternals  
+ ## 👨‍💻  Developed by 
+ Team Eternals  
