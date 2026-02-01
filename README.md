@@ -1,7 +1,7 @@
 # VriddhiHerbs
 
 Virtual Herbal Garden & AYUSH Medicinal Plants Platform
-![Demo](VriddhiHearbs/images2/baneer1.png)
+![Demo] (VriddhiHearbs/images2/baneer1.png)
 
 
 
@@ -199,5 +199,4 @@ VriddhiHearbs/
 - All plant images and 3D models are placeholders (SVG icons) for nowgit
 
 👨‍💻 Author
-
 **Developed by :** Team Eternals 
