@@ -1,6 +1,8 @@
-# Virtual Herbal Garden - AYUSH Medicinal Plants Platform
+# VriddhiHerbs
+Virtual Herbal Garden - AYUSH Medicinal Plants Platform
+![Demo](https://raw.githubusercontent.com/codebit-dev/Herbal-Verse-AI/refs/heads/main/banner.png)
 
-----
+
 
 
 ## Overview
@@ -159,4 +161,4 @@ Based on the provided architecture diagram:
 - OpenAI API used for chatbot (GPT-3.5-turbo) and image recognition (GPT-4o)
 - Database is automatically initialized and seeded on startup
 - Uploads are stored in the `uploads/` directory
-- All plant images and 3D models are placeholders (SVG icons) for now
+- All plant images and 3D models are placeholders (SVG icons) for nowgit
