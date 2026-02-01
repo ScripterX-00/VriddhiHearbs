@@ -1,6 +1,7 @@
 # VriddhiHerbs
-Virtual Herbal Garden - AYUSH Medicinal Plants Platform
-![Demo](https://raw.githubusercontent.com/codebit-dev/Herbal-Verse-AI/refs/heads/main/banner.png)
+
+Virtual Herbal Garden & AYUSH Medicinal Plants Platform
+![Demo](VriddhiHearbs/images2/baneer1.png)
 
 
 
@@ -136,6 +137,41 @@ Based on the provided architecture diagram:
 5. **Turmeric** (Curcuma longa) - Anti-inflammatory
 6. **Amla** (Phyllanthus emblica) - Vitamin C Source
 
+
+## 📁 Folder Structure
+
+```
+VriddhiHearbs/
+│── images2
+│── models
+├── staic                
+│   ├── css/
+         └──style.css
+│   ├── js
+         ├── cart.js
+         └── viewer.js
+
+│   └── images/
+├── templates  
+        ├── admin.html
+        ├── base.html
+        ├── chatbot.html
+        ├── checkout.html 
+        ├── community.html
+        ├── exm.html 
+        ├── garden.html 
+        ├── index.html 
+        ├── plant_detail.html 
+        ├── recognize.html 
+        └── shop.html
+├── uploads
+├── app.py                 
+├── database.py 
+├── main.py 
+├── README.md             # Project documentation
+└── requirements.txt              
+```
+
 ## User Preferences
 - Clean, professional code structure
 - Nature-themed UI with green color palette
@@ -157,8 +193,11 @@ Based on the provided architecture diagram:
 
 ## Development Notes
 - Flask runs on port 5000
-- All routes are configured for the Replit environment
 - OpenAI API used for chatbot (GPT-3.5-turbo) and image recognition (GPT-4o)
 - Database is automatically initialized and seeded on startup
 - Uploads are stored in the `uploads/` directory
 - All plant images and 3D models are placeholders (SVG icons) for nowgit
+
+👨‍💻 Author
+
+**Developed by :** Team Eternals 
