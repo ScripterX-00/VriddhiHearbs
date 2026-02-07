@@ -200,4 +200,4 @@ VriddhiHearbs/
 - All plant images and 3D models are placeholders (SVG icons) for nowgit
 
  ## 👨‍💻  Developed by 
- Team Eternals  
+ Team EternalS 
